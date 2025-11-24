@@ -1,7 +1,7 @@
-## Face recognition model
+# Face recognition model
 #### This is the final project for the CSCA 5642 class, introduction to Deep Learning.
 
-##### Dataset Description:
+# Dataset Description:
 
 The data consists of 48x48 pixel grayscale images of faces. The faces have been automatically registered so that the face is more or less centred and occupies about the same amount of space in each image. Each face image belongs to one of the following expression categories:
 
@@ -15,7 +15,7 @@ The data consists of 48x48 pixel grayscale images of faces. The faces have been 
 
 ##### Manas Sambare. (2013). Face expressions recognition . Kaggle. https://www.kaggle.com/datasets/msambare/fer2013/data
 
-##### Problem Description:
+# Problem Description:
 
 - The task is to build an image-based facial emotion recognition model. The main challenges include low-resolution images, noisy labels, strong variation in lighting and pose, and class imbalance.
 
@@ -26,7 +26,7 @@ The data consists of 48x48 pixel grayscale images of faces. The faces have been 
 
 - Also another objective is experiment and try different model architectures in order to see which is the best in terms of performance.
 
-#### Pipeline:
+# Pipeline:
 - Exploratory Data Analysis
 - Data preparation
 - Model architecture definition
